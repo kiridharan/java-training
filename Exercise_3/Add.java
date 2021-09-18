@@ -9,7 +9,7 @@ public class Add{
 	}
 	public static void main(String args[])
 	{
-		Add a = new Add();
+		// Add a = new add();
 		System.out.println(" The sum of a and b is :" +Add.add()); 
 	}
 }

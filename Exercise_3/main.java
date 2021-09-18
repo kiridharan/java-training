@@ -2,7 +2,7 @@ package Exercise_3;
 
 class Main
 {
-     int a = m1();      
+    int a = m1();      
     static {
         System.out.println("Inside static block");
     }

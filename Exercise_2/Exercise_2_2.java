@@ -2,7 +2,7 @@ package Exercise_2;
 
 public class Exercise_2_2 {
 
-	public static void main(String[] args) {
+	public static void main(String args[]) {
 		int i = 12;
 		long l = i;
 		float f = l;

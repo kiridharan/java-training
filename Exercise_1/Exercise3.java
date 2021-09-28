@@ -2,7 +2,6 @@ package Exercise_1;
 
 public class Exercise3 {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		 System.out.println("Size of byte: " + (Byte.SIZE/8) + " bytes.");
 		 System.out.println("Size of short: " + (Short.SIZE/8) + " bytes.");
 		 System.out.println("Size of int: " + (Integer.SIZE/8) + " bytes.");
